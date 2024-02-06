@@ -216,4 +216,7 @@ body{
 }
 
 
-\\No sé hacer un comentario
+// sé hacer un comentario
+.principal:hover .back{
+    transform: perspective(601px) rotateY(360deg);
+}
